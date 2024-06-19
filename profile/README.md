@@ -1,4 +1,7 @@
-![tidak_ada_yang_lebih_keren_yang_melambangkan_nama_TourID_png (1)](https://github.com/smerull/TourID/assets/72953771/39df162d-de29-4b76-89b9-dc16fa904140)
+<p align="center">
+    <img src="https://github.com/TourID/Machine-Learning/assets/159881870/e6be832b-8bc3-4259-9508-7ea4ba7503b6" alt="tur2">
+</p>
+
 # TourID
 Bangkit Capston Project
 
