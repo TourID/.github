@@ -1,9 +1,8 @@
+# TourID
+Bangkit Capston Project
 <p align="center">
     <img src="https://github.com/TourID/Machine-Learning/assets/159881870/e6be832b-8bc3-4259-9508-7ea4ba7503b6" alt="tur2">
 </p>
-
-# TourID
-Bangkit Capston Project
 
 # What is TourID
 
@@ -19,3 +18,9 @@ Bangkit Capston Project
 | Aulia Pradina | Cloud Engineer  | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
 | Aminuddin Ihsan | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
 | Dhirsya Ramadhan Pattah | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
+
+## Acknowledgment
+This project was developed for fullfill the final capstone project submission at Bangkit 2024.
+<p align="center">
+  <img src="https://hackmd.io/_uploads/r1VL5VVvh.png" alt="Bangkit Logo">
+</p>
