@@ -12,10 +12,10 @@ Bangkit Capston Project
 
 | NAME | JOB | GITHUB |	LinkedIn |
 | ------ | ------ | ------ | ------ |
-| Novi Dwi Fitriani | ML Engineer |  |  |
-| Riska Septyani| ML Engineer |  |  |
-| Deriansyah Aulia Muharram | ML Engineer |  |  |
-| Roihan Farras Setyadi | Cloud Engineer |  |  |
-| Aulia Pradina | Cloud Engineer  |  |  |
-| Aminuddin Ihsan | Android Developer |  |  |
-| Dhirsya Ramadhan Pattah | Android Developer |  |  |
+| Novi Dwi Fitriani  | ML Engineer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/noviidwi) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/novidf/) |
+| Riska Septyani| ML Engineer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/riskasptyani) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riskaseptyani) |
+| Deriansyah Aulia Muharram | ML Engineer  |  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
+| Roihan Farras Setyadi | Cloud Engineer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
+| Aulia Pradina | Cloud Engineer  | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
+| Aminuddin Ihsan | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
+| Dhirsya Ramadhan Pattah | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
