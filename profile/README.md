@@ -19,6 +19,11 @@ Bangkit Capston Project
 | Aminuddin Ihsan | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
 | Dhirsya Ramadhan Pattah | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
 
+## Resource
+- Machine Learning Repository: [Machine-Learning](https://github.com/TourID/Machine-Learning)
+- Cloud Computing Repository: [Cloud-Computing](https://github.com/TourID/Cloud-Computing)
+- Mobile Development Repository: [Mobile-Dev](https://github.com/TourID/Mobile-Dev)
+  
 ## Acknowledgment
 This project was developed for fullfill the final capstone project submission at Bangkit 2024.
 <p align="center">
