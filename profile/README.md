@@ -5,7 +5,7 @@ Bangkit Capston Project
 </p>
 
 ## What is TourID
-
+TourID was conceived to address the challenges faced by tourists in Indonesia due to the lack of centralized and easily accessible information. As domestic and international tourism continues to rise, with February 2024 seeing a significant increase to 1.04 million tourists—an 11.67% jump from January 2024—travelers often struggle to effectively plan and enjoy their trips across different regions. Our project focuses on developing a comprehensive tourism information system to streamline this process. By conducting thorough market research and user interviews, we identified the key needs and preferences of travelers and pinpointed gaps in the current tourism infrastructure. TourID leverages technology to provide a user-friendly application that integrates detailed information about tourist attractions, amenities, and travel logistics. This innovation aims to enhance the overall travel experience, making it easier for tourists to explore and enjoy Indonesia’s diverse destinations, while also boosting the regional tourism economy.
 
 ## Contact The Developers
 
