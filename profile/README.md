@@ -17,7 +17,7 @@ TourID was conceived to address the challenges faced by tourists in Indonesia du
 | Roihan Farras Setyadi | Cloud Engineer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Roihan1303) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/roihanfarrassetyadi) |
 | Aulia Pradina | Cloud Engineer  | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
 | Aminuddin Ihsan | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
-| Dhirsya Ramadhan Pattah | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/smerull) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deriansyah-aulia-muharram) |
+| Dhirsya Ramadhan Pattah | Android Developer | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/dhirsyaram) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhirsyarp) |
 
 ## Resource
 - Machine Learning Repository: [Machine-Learning](https://github.com/TourID/Machine-Learning)
