@@ -1,5 +1,4 @@
 ## TourID
-Bangkit Capston Project
 <p align="center">
     <img src="https://github.com/TourID/Machine-Learning/assets/159881870/e6be832b-8bc3-4259-9508-7ea4ba7503b6" alt="tur2">
 </p>
